@@ -1,2 +1,2 @@
-# scalaInterviewQuestions
-Scala Interviews Questions
+# Scala Interview Questions
+
